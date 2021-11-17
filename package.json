@@ -1,0 +1,31 @@
+{
+  "name": "bows",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "NUXT_HOST=0.0.0.0 NUXT_PORT=3000 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.9.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
+    "chart.js": "^2.9.4",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^2.6.12",
+    "html2canvas": "*",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.14",
+    "nuxt": "^2.14.6",
+    "nuxt-socket-io": "^1.1.18",
+    "print-js": "^1.6.0",
+    "vue-chartjs": "^3.5.1",
+    "vue-sweetalert2": "^4.1.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.8.55",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}

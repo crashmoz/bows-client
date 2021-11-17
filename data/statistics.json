@@ -1,0 +1,36 @@
+{
+	"statistics": [
+		{
+			"title": "12am",
+			"value": "200"
+		},
+		{
+			"title": "3am",
+			"value": "675"
+		},
+		{
+			"title": "6am",
+			"value": "410"
+		},
+		{
+			"title": "9am",
+			"value": "390"
+		},
+		{
+			"title": "12pm",
+			"value": "310"
+		},
+		{
+			"title": "3pm",
+			"value": "460"
+		},
+		{
+			"title": "6pm",
+			"value": "250"
+		},
+		{
+			"title": "9pm",
+			"value": "240"
+		}
+	]
+}
